@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!-- 系统参数配置-->
+<SYSPARAM>
+  <DBSERVER_IP>172.24.178.241</DBSERVER_IP>  		<!-- 数据库服务器地址-->
+  <PORT>1433</PORT> 						 		<!-- 数据库通信端口-->
+  <DB_USER>sa</DB_USER>						 		<!-- 数据库用户名-->
+  <DB_PASSWD>O69qwd09IRLf2qESE6CkMw==</DB_PASSWD>	<!-- 数据库密码-->
+  <DB_NAME>Gorgeous</DB_NAME>				 		<!-- 数据库库名-->
+</SYSPARAM>
